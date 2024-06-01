@@ -206,24 +206,7 @@
        text-align: justify;
        margin-right: 25px;
 }
-/*.abt .moreabt p {
-       font-size: 15px;
-       font-family: "Arial", sans-serif;
-       font-weight: 100px;
-       margin-left: 325px;
-       color: slatedarkgray;
-       text-align: justify;
-       margin-right: 25px;
-}
-.abt .moreabt a,
-.abt .moreabt a:visited {
-       font-size: 15px;
-       margin-right: 10px;
-       margin-left: 325px;
-       top: 500px;
-       color: #173b6c;
-       font-family: "Arial", sans-serif;
-}*/
+
 /*Education section*/
 .abt img {
        margin-left: 305px;
@@ -369,8 +352,14 @@
    .abt .edu p {
           margin-left: 25%;
     }
-    .abt h2, .abt p, .abt .moreabt h2, .abt .moreabt p, .abt .moreabt a {
+    .abt h2, .abt p {
        margin-left: 8%;
+   }
+    .abt .award p{
+      margin-left:105px;
+   }
+   .abt .award #s1{
+      margin-top:-100px;
    }
    
 }
